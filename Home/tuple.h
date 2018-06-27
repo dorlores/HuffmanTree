@@ -14,5 +14,3 @@ public:
 };
 
 #endif // !TUPLE_H
-
-#pragma once
